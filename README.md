@@ -3,7 +3,7 @@
 Crypt-On is a feature-rich, responsive cryptocurrency analytics platform built using React.js. It allows users to track prices, compare coins, analyze market trends, and manage a personal watchlist—all with a polished UI and smooth animations.
 
  - 🔗 Live Demo: https://crypt-on.netlify.app/
- - 🛠 Built with: React.js, Material UI, Chart.js, Axios, Framer Motion
+ - 🛠 Built with: React.js, Material UI, Chart.js, Axios, Framer Motio
 
 ---
 
